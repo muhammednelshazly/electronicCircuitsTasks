@@ -1,4 +1,4 @@
-# Digital Logic Circuits – Proteus Simulations
+# Electronic Circuits – Proteus Simulations
 
 This repository contains a collection of digital logic circuit simulations implemented using Proteus.
 
