@@ -19,6 +19,12 @@ This repository contains a collection of digital logic circuit simulations imple
 - R-S Latch Circuit
 - D Latch Circuit
 - J-K Latch Circuit
+- Counters Circuit
+- D Flip -Flop Circuit
+- Shift Registers Latch Circuit
+- 7-Segment Decoder Circuit
+
+
 
 ## Project Contents
 
