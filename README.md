@@ -32,8 +32,6 @@ Each task may include:
 
 - Proteus simulation file
 - Circuit screenshot
-- Boolean expression
-- Truth table
 - Documentation report
 
 ## Tools Used
